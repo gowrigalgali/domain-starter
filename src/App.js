@@ -15,8 +15,8 @@ const App = () => {
 				<div className="header-container">
 					<header>
             <div className="left">
-              <p className="title">🐱‍👤 Ninja Name Service</p>
-              <p className="subtitle">Your immortal API on the blockchain!</p>
+              <p className="title"> 👑 Rulers Name Service 👑 </p>
+              <p className="subtitle">Your immortal API on the blockchain! </p>
             </div>
 					</header>
 				</div>
